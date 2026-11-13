@@ -167,6 +167,10 @@ validated on a running router VM; aarch64_generic has passed QEMU tests but
 still needs physical-device validation. Packages currently require a local SDK
 build; automated release publishing and IPK support are not included yet.
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/RustDesk%20Console/)
+
 ## 🖥️ Integrated hbbs / hbbr management
 
 See [Server management](docs/server-management.md) for the authenticated server APIs, hub-and-spoke server topology, server permissions, the Compose server profile and CI validation.
